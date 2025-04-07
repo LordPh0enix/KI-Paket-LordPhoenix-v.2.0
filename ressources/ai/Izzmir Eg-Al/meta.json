@@ -1,0 +1,19 @@
+{
+  "name": "Izzmir Eg-Al",
+  "description": "This is one of my KI's",
+  "author": "Lord_Phoenix",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
